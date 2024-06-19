@@ -1,3 +1,3 @@
 # my-demo
 This is my first git Repository
-Authoe- Rizvi
+Author- Rizvi
